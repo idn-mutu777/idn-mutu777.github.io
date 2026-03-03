@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://idn-mutu777.github.io/sitemap.xml
